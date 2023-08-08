@@ -1,0 +1,62 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2181403027",
+	"source": {
+		"name": "Generated image using the DALL-E 2 API?",
+		"showName": false,
+		"instructions": "**Which of the following examples demonstrates controlling content in the generated image using the DALL-E 2 API?**",
+		"multipleResponse": false,
+		"isRandomized": true,
+		"answers": [
+			{
+				"_id": "af4ac755-e709-3f52-7fd4-bef49147d7bf",
+				"correct": false,
+				"answer": " \"A red sports car on a blue background\""
+			},
+			{
+				"_id": "39f4bc9a-83d5-1f51-d4c0-daef00d3a8ef",
+				"correct": false,
+				"answer": " \"A cubist painting of a cat\""
+			},
+			{
+				"_id": "efa602a4-dbb0-5216-aaf5-f96d25033f8c",
+				"correct": true,
+				"answer": "\"A futuristic city skyline with flying cars and skyscrapers\""
+			},
+			{
+				"_id": "2023471a-ac84-9ddd-34f9-6ecd2a021d88",
+				"correct": false,
+				"answer": " \"A black and white photograph of a beach\""
+			}
+		],
+		"guidance": "\"A futuristic city skyline with flying cars and skyscrapers\"\nIn this example, the prompt specifies the desired content of the image by describing a futuristic city skyline with flying cars and skyscrapers. DALL-E 2 will generate an image that matches the provided description, creating a scene with the specified elements.",
+		"showGuidanceAfterResponseOption": {
+			"type": "Attempts",
+			"passedFrom": 2
+		},
+		"maxAttemptsCount": 0,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [
+				"imageATT.py"
+			],
+			"opened": [
+				{
+					"type": "file",
+					"content": "imageATT.py"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

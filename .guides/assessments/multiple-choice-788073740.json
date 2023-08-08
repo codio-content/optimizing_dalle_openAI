@@ -1,0 +1,62 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-788073740",
+	"source": {
+		"name": "temperature",
+		"showName": false,
+		"instructions": "**What is the effect of increasing the temperature parameter in the image generation process?**",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "0576e9c8-381c-321b-0b51-faeb97988f2d",
+				"correct": false,
+				"answer": " Produces more conservative and focused results"
+			},
+			{
+				"_id": "781ae208-c8f7-eb99-4986-cb80cb4a9be4",
+				"correct": false,
+				"answer": "Increases the speed of image generation"
+			},
+			{
+				"_id": "0e3b4bf0-9f27-3055-8def-61ac0b324f46",
+				"correct": true,
+				"answer": "Results in more diverse and potentially more creative prompts"
+			},
+			{
+				"_id": "109c2308-1eb6-7c26-72f9-50a4a9cce800",
+				"correct": false,
+				"answer": "Decreases the quality of generated images"
+			}
+		],
+		"guidance": "The temperature parameter influences the randomness of the image generation process. A higher temperature value leads to more diverse and potentially more creative prompts, while a lower temperature value produces more conservative and focused results.\n\n\n\n\n",
+		"showGuidanceAfterResponseOption": {
+			"type": "Attempts",
+			"passedFrom": 2
+		},
+		"maxAttemptsCount": 0,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [
+				"txt_toImg.py"
+			],
+			"opened": [
+				{
+					"type": "file",
+					"content": "txt_toImg.py"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

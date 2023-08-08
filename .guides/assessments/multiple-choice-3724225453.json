@@ -1,0 +1,52 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3724225453",
+	"source": {
+		"name": "GPT-3 & image",
+		"showName": true,
+		"instructions": "**(True or False):**\nGPT-3 has direct access to the actual image content when generating a description or caption for an image.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "bbce5144-5474-bd73-8cde-36cfabc11e3b",
+				"correct": false,
+				"answer": "True "
+			},
+			{
+				"_id": "1185c31e-a007-3051-ed6b-2f9ce92d9b86",
+				"correct": true,
+				"answer": "False"
+			}
+		],
+		"guidance": "GPT-3 is a text-based model and does not have direct access to the actual image content. Instead, it relies on the image URL, which may not always provide enough context for the model to generate a precise description.",
+		"showGuidanceAfterResponseOption": {
+			"type": "Attempts",
+			"passedFrom": 2
+		},
+		"maxAttemptsCount": 0,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [
+				"imgtxt.py"
+			],
+			"opened": [
+				{
+					"type": "file",
+					"content": "imgtxt.py"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

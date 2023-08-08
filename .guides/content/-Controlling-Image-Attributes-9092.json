@@ -1,0 +1,21 @@
+{
+	"id": "90926c0b-682e-ed91-b359-5623fb253568",
+	"title": " Controlling Image Attributes",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": "imageATT.py",
+			"action": "open"
+		}
+	],
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": "",
+	"layout": ""
+}

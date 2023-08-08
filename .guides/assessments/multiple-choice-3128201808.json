@@ -1,0 +1,55 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3128201808",
+	"source": {
+		"name": "DALL-E 2 API prompts",
+		"showName": false,
+		"instructions": "**Which of the following is NOT a suggestion for crafting effective prompts for DALL-E 2 API?**",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "754ad718-0113-e813-633a-d2284cc92581",
+				"correct": false,
+				"answer": "Be clear and descriptive"
+			},
+			{
+				"_id": "54ac4efd-f7b4-7dbb-0db2-9f99b7d08852",
+				"correct": true,
+				"answer": " Use as few words as possible"
+			},
+			{
+				"_id": "f91b20d5-95c0-36ea-317b-4712c4c57b31",
+				"correct": false,
+				"answer": "Experiment with different prompt structures"
+			},
+			{
+				"_id": "eee67d57-fc5e-5dfd-3deb-1098c5829a33",
+				"correct": false,
+				"answer": "Provide context"
+			}
+		],
+		"guidance": "Using as few words as possible may result in vague or unclear prompts, which can lead to unsatisfactory generated images. Being clear and descriptive, experimenting with prompt structures, and providing context are effective ways to improve the quality of generated images.",
+		"showGuidanceAfterResponseOption": {
+			"type": "Attempts",
+			"passedFrom": 2
+		},
+		"maxAttemptsCount": 0,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

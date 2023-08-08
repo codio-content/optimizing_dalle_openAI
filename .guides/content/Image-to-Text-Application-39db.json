@@ -1,0 +1,21 @@
+{
+	"id": "39db42b6-6ab0-64e4-a2bc-3032eac1e9ee",
+	"title": "Image-to-Text Application",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": "imgtxt.py",
+			"action": "open"
+		}
+	],
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": "",
+	"layout": ""
+}

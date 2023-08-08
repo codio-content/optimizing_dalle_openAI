@@ -1,0 +1,17 @@
+{
+	"id": "c35e901a-c950-a1cb-1dc1-1ccbee8b195b",
+	"title": "Combining DALL-E 2 API with GPT-3",
+	"files": [
+		{
+			"path": "txt_toImg.py",
+			"action": "open"
+		}
+	],
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": "",
+	"layout": "3-cell"
+}

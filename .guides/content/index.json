@@ -1,0 +1,23 @@
+{
+	"title": "Optimizing DALL-E 2 API Outputs",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": true,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Learning-Objectives-c919",
+		"-Understanding-Prompt-Engineering-6957",
+		"Combining-DALL-E-2-API-with-GPT-3-c35e",
+		"-Controlling-Image-Attributes-9092",
+		"Image-to-Text-Application-39db",
+		"Coding-Exercise-4246"
+	]
+}
